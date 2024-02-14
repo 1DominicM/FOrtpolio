@@ -77,6 +77,10 @@ body {
     height: 600px;
     border: 1px solid #00B381;
 }
+.rww3 img {
+    height: 300px;
+
+}
 
 .rww4 {
     height: 200px;
@@ -88,4 +92,10 @@ body {
 }
 .rww5 {
     height: 100px;
+}
+
+.rww6 img {
+  width: 360px;
+  height: 240px;
+  margin: 10px;
 }
