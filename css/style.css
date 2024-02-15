@@ -57,6 +57,10 @@ body {
 .rw1 {
     padding-top: 20px;
 }
+.col p {
+  text-decoration: underline antiquewhite;
+}
+
 /* Box boarders*/
 .hr1 {
     max-width: 800px;
@@ -67,6 +71,8 @@ body {
 .rww2 {
     height: 800px;
     border: 1px solid #00B381;
+    background: url('../img/mebtr.jpg') no-repeat center center/cover;
+    opacity: 70%;
 }
 
 .col {
@@ -99,3 +105,16 @@ body {
   height: 240px;
   margin: 10px;
 }
+
+.rww7 {
+  height: 25px;
+}
+.rww7 .col {
+  height: 25px;
+}
+
+.col img {
+  align-items: center;
+  align-content: center;
+}
+
