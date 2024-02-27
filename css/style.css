@@ -59,32 +59,33 @@ body {
 }
 .col p {
   text-decoration: underline antiquewhite;
+  color: #00B381;
 }
 
 /* Box boarders*/
 .hr1 {
     max-width: 800px;
     margin-left: 550px;
-    background-color: #00B381;
+   /* border: 1px solid #00B381; */
 }
 
 .rww2 {
     height: 800px;
-    border: 1px solid #00B381;
+   /* border: 1px solid #00B381; */
     background: url('../img/mebtr.jpg') no-repeat center center/cover;
     opacity: 70%;
 
 }
 
 .col {
-    border: 1px dotted #00B381;
+   /* border: 1px solid #00B381; */
     align-items: center;
     text-align: center;
 }
 
 .rww3 {
     height: 600px;
-    border: 1px solid #00B381;
+   /* border: 1px solid #00B381; */
 }
 .rww3 img {
     height: 300px;
@@ -93,7 +94,7 @@ body {
 
 .rww4 {
     height: 200px;
-    border: 1px solid #00B381;
+   /* border: 1px solid #00B381; */
     color: antiquewhite;
     font-family: 'Sofia Sans', sans-serif;
     text-align: center;
@@ -131,6 +132,7 @@ body {
     font-size: 3rem;
     text-align: center;
     margin: 40px 0px;
+  color: #141612;
 
 
 }
